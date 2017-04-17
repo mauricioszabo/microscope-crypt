@@ -1,5 +1,6 @@
 # Microscope Crypt
 [![Build Status](https://travis-ci.org/acessocard/microscope-crypt.svg?branch=master)](https://travis-ci.org/acessocard/microscope-crypt)
+[![Clojars Project](https://img.shields.io/clojars/v/microscope/crypt.svg)](https://clojars.org/microscope/crypt)
 
 A simple project to provide simple asymmetric encryption and decryption
 
