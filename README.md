@@ -1,4 +1,5 @@
 # Microscope Crypt
+[![Build Status](https://travis-ci.org/acessocard/microscope-crypt.svg?branch=master)](https://travis-ci.org/acessocard/microscope-crypt)
 
 A simple project to provide simple asymmetric encryption and decryption
 
